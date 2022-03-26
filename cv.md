@@ -57,6 +57,11 @@ const headerMenu = document.querySelector('.header__menu');
 ## **Projects**
 *[https://ostapchelaest.github.io/Lesson_19/]
 *[https://ostapchelaest.github.io/Lesson_18/]
+*[https://rolling-scopes-school.github.io/ostapchelaest-JSFEPRESCHOOL/js30.2.2-image-galery/]
+*[https://rolling-scopes-school.github.io/ostapchelaest-JSFEPRESCHOOL/js30,1.2-audio-player/]
+*[https://rolling-scopes-school.github.io/ostapchelaest-JSFEPRESCHOOL/js30.3.2-memory-game/]
+*[https://ostapchelaest.github.io/Puppies/]
+*[https://rolling-scopes-school.github.io/ostapchelaest-JSFEPRESCHOOL/portfolio/]
 
 ---
 ## **English:**
